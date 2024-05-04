@@ -184,7 +184,7 @@
     --plum-5: var(--plum-light);
     --plum-6: var(--plum);
     --plum-7: var(--plum);
-    --plum-8: var(--plum);
+    --plum8: var(--plum);
     --plum-9: var(--plum);
     --primary-100: var(--fg0);
     --primary-130: var(--fg0);
@@ -192,12 +192,12 @@
     --primary-200: var(--fg1);
     --primary-230: var(--fg1);
     --primary-260: var(--fg1);
-    --primary-300: var(--fg2);
-    --primary-330: var(--fg2);
+    --primary-300: var(--fg1);
+    --primary-330: var(--fg1);
     --primary-345: var(--fg2);
     --primary-360: var(--fg2);
-    --primary-400: var(--fg3);
-    --primary-430: var(--fg3);
+    --primary-400: var(--fg2);
+    --primary-430: var(--fg2);
     --primary-460: var(--fg3);
     --primary-500: var(--fg4);
     --primary-530: var(--fg4);
